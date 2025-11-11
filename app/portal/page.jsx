@@ -1,4 +1,7 @@
-"use client";
+"use client"; 
+
+import React, { useState } from "react";
+import { CheckCircle, FileText, Images, MessageSquare, CreditCard, Calendar, Home, LogIn, LogOut, Download } from "lucide-react";"use client";
 
 import React, { useState, useEffect } from "react";
 import {
