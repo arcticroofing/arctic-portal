@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useMemo, useState } from "react";
 import { CheckCircle, FileText, Images, MessageSquare, CreditCard, Calendar, Home, LogIn, LogOut, Download } from "lucide-react";
 import { createClient } from "@supabase/supabase-js";
