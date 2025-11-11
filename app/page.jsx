@@ -1,4 +1,7 @@
+"use client"; 
+
 import React, { useState } from "react";
+import { CheckCircle, FileText, Images, MessageSquare, CreditCard, Calendar, Home, LogIn, LogOut, Download } from "lucide-react";import React, { useState } from "react";
 import { CheckCircle, FileText, Images, MessageSquare, CreditCard, Calendar, Home, LogIn, LogOut, Download } from "lucide-react";
 
 // --- Mock Auth (replace with Clerk/Auth.js/Supabase Auth) ---
